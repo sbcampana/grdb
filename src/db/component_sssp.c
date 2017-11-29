@@ -1,4 +1,4 @@
-#include "graph.h"
+#include "../../include/graph.h"
 
 
 /* Place the code for your Dijkstra implementation in this file */
@@ -18,6 +18,7 @@ component_sssp(
 	 * Figure out which attribute in the component edges schema you will
 	 * use for your weight function
 	 */
+
 
 
 
