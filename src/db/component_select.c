@@ -1,4 +1,4 @@
-#include "graph.h"
+#include "../../include/graph.h"
 
 component_t
 component_select(

@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "tuple.h"
+#include "../../include/tuple.h"
 
 #if _DEBUG
 void bufdump(char *buf, int size);

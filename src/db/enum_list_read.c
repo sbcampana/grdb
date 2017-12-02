@@ -3,8 +3,8 @@
 #endif
 #include <stdlib.h>
 #include <unistd.h>
-#include "enum.h"
-#include "types.h"
+#include "../../include/enum.h"
+#include "../../include/types.h"
 
 enum_list_t
 enum_list_read(enum_list_t *el, int fd)

@@ -4,8 +4,8 @@
 #endif
 #include <stdlib.h>
 #include <unistd.h>
-#include "schema.h"
-#include "types.h"
+#include "../../include/schema.h"
+#include "../../include/types.h"
 
 schema_t
 schema_write(schema_t s, int fd)

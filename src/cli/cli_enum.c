@@ -4,9 +4,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "cli.h"
-#include "enum.h"
-#include "graph.h"
+#include "../../include/cli.h"
+#include "../../include/enum.h"
+#include "../../include/graph.h"
 
 int
 cli_enum_syntax_check(char *s)

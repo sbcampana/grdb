@@ -3,8 +3,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
-#include "cli.h"
-#include "graph.h"
+#include "../../include/cli.h"
+#include "../../include/graph.h"
 
 void
 cli_components_print(char *gname, int with_tuples)

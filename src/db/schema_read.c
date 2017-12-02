@@ -5,8 +5,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "schema.h"
-#include "types.h"
+#include "../../include/schema.h"
+#include "../../include/types.h"
 
 schema_t
 schema_read(int fd, enum_list_t el)

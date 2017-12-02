@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include "vertexid.h"
+#include "../../include/vertexid.h"
 
 static int seeded = 0;
 

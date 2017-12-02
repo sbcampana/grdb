@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "cli.h"
+#include "../../include/cli.h"
 
 void
 cli_graph_edge(char *cmdline, int *pos)

@@ -1,5 +1,5 @@
 #include <assert.h>
-#include "import.h"
+#include "../../include/import.h"
 
 ivertex_t ivertex_select(igraph_t ig);
 ivertex_t ivertex_neighbors(igraph_t ig, ivertex_t v);

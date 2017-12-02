@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <sys/stat.h>
-#include "config.h"
-#include "graph.h"
+#include "../../include/config.h"
+#include "../../include/graph.h"
 
 void
 graph_init(graph_t g)

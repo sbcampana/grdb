@@ -7,8 +7,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "cli.h"
-#include "graph.h"
+#include "../../include/cli.h"
+#include "../../include/graph.h"
 
 #if _DEBUG
 void bufdump(char *buf, int size);

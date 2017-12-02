@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "cli.h"
+#include "../../include/cli.h"
 
 static void
 cli_graph_vertex_write(vertex_t v)

@@ -5,8 +5,8 @@
 #include <string.h>
 #include <sys/stat.h>
 #include <unistd.h>
-#include "cli.h"
-#include "graph.h"
+#include "../../include/cli.h"
+#include "../../include/graph.h"
 
 /* Home directory for user */
 const char *homedir;

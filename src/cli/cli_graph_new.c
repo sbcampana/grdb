@@ -8,7 +8,7 @@
 #include <string.h>
 #include <sys/stat.h>
 #include <unistd.h>
-#include "cli.h"
+#include "../../include/cli.h"
 
 int
 numbers_only(const char *s)

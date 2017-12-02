@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "cli.h"
+#include "../../include/cli.h"
 
 void cli_graph_update_tuples(schema_type_t st, int old_schema_size);
 

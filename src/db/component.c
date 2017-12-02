@@ -4,9 +4,9 @@
 #include <string.h>
 #include <sys/stat.h>
 #include <unistd.h>
-#include "config.h"
-#include "graph.h"
-#include "tuple.h"
+#include "../../include/config.h"
+#include "../../include/graph.h"
+#include "../../include/tuple.h"
 
 void
 component_init(component_t c)

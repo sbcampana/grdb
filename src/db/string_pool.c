@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "string_pool.h"
+#include "../../include/string_pool.h"
 
 static inline int
 string_pool_get_entries(string_pool_t pool)

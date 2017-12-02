@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "string_pool.h"
+#include "../../include/string_pool.h"
 
 void cli();
 

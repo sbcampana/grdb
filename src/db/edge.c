@@ -6,8 +6,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "config.h"
-#include "graph.h"
+#include "../../include/config.h"
+#include "../../include/graph.h"
 
 void
 edge_init(edge_t e)

@@ -2,8 +2,8 @@
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>
-#include "cli.h"
-#include "graph.h"
+#include "../../include/cli.h"
+#include "../../include/graph.h"
 
 void cli_graph_new(char *cmdline, int *pos);
 void cli_graph_component(char *cmdline, int *pos);

@@ -5,8 +5,8 @@
 #include <fcntl.h>
 #include <stdio.h>
 #include <string.h>
-#include "config.h"
-#include "graph.h"
+#include "../../include/config.h"
+#include "../../include/graph.h"
 
 /* Clear the vertex data structure */
 void

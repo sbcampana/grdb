@@ -7,8 +7,8 @@
 #include <string.h>
 #include <sys/stat.h>
 #include <unistd.h>
-#include "cli.h"
-#include "graph.h"
+#include "../../include/cli.h"
+#include "../../include/graph.h"
 
 int numbers_only(const char *s);
 

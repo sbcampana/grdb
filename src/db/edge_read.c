@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "graph.h"
+#include "../../include/graph.h"
 
 /*
  * The edge file is arranged as a packed list of edge records.  Each

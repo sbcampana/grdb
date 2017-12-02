@@ -4,7 +4,7 @@
 #endif
 #include <stdlib.h>
 #include <unistd.h>
-#include "graph.h"
+#include "../../include/graph.h"
 
 /*
  * Write the tuple record to secondary storage.  The record contains two

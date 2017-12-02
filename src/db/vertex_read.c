@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "graph.h"
+#include "../../include/graph.h"
 
 /*
  * The vertex file is arranged as a packed list of vertex records.  Each

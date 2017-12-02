@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "cli.h"
+#include "../../include/cli.h"
 
 char *
 readline(char *prompt)

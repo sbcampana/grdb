@@ -1,4 +1,4 @@
-#include "graph.h"
+#include "../../include/graph.h"
 
 /*
  * This function combines two component structures.

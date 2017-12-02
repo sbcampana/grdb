@@ -1,8 +1,8 @@
 #include <assert.h>
 #include <stdio.h>
 #include <string.h>
-#include "enum.h"
-#include "tuple.h"
+#include "../../include/enum.h"
+#include "../../include/tuple.h"
 
 static void
 tuple_print_enum(tuple_t t, int offset, enum_list_t el)

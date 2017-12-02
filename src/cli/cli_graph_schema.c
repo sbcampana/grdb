@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include "cli.h"
+#include "../../include/cli.h"
 
 void cli_graph_schema_add(schema_type_t st, char *cmdline, int *pos);
 
